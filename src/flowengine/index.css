@@ -1,0 +1,20 @@
+.gray-bg{
+    background-color: gray;
+}
+.textcolor{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.bodycontent{
+    margin-left: 5px;
+    background-color: lightgray;
+    height: 50px;
+   
+    font-weight: bold;
+    line-height:50px;
+
+}
+.bodyspan{
+    margin-left: 10px;
+}
